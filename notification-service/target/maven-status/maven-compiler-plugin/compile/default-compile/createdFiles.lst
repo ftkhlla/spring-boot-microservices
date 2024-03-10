@@ -1,0 +1,2 @@
+org\example\notificationservice\event\OrderPlacedEvent.class
+org\example\notificationservice\NotificationServiceApplication.class
